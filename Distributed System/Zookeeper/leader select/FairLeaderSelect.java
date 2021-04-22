@@ -1,5 +1,3 @@
-// Copyright (C) 2021 Focus Media Holding Ltd. All Rights Reserved.
-
 package yx.unique.zookeeper.leaderselect.unfair;
 
 
